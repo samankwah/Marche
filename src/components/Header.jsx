@@ -18,7 +18,7 @@ const Header = () => {
           className="text-3xl font-bold flex items-end text-gray-800"
         >
           <span>Marché</span>
-          <span className="w-2 h-2 bg-green-500 m-1.5 inline-flex"></span>
+          <span className="w-2 h-2 bg-green-600 m-1.5 inline-flex"></span>
         </Link>
 
         {/* Navigation Links */}
